@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "express": "^5.1.0",
-    "pg": "^8.14.1"
+    "pg": "^8.16.3"
   },
   "devDependencies": {
     "supertest": "^7.1.0",
@@ -22,5 +22,19 @@
   },
   "engines": {
     "node": ">=22"
-  }
+  },
+  "version": "1.0.0",
+  "description": "Introducing Jukebox, a digital music service where users can curate playlists of tracks to\r best match their mood!",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevMattBailey/Jukebox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevMattBailey/Jukebox/issues"
+  },
+  "homepage": "https://github.com/DevMattBailey/Jukebox#readme"
 }
